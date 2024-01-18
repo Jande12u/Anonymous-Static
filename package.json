@@ -3,7 +3,6 @@
     "particlesjs": "^2.2.3"
   },
   "scripts": {
-    "start": "node blank.js"
+    "start": "node js/blank.js"
   }
 }
-
